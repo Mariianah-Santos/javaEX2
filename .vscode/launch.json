@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ex17",
+            "request": "launch",
+            "mainClass": "EXERCICIOS.ex17",
+            "projectName": "javaEX2_e7c0cd0f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ex1",
+            "request": "launch",
+            "mainClass": "EXERCICIOS.ex1",
+            "projectName": "javaEX2_e7c0cd0f"
+        },
+        {
+            "type": "java",
+            "name": "ex10",
+            "request": "launch",
+            "mainClass": "EXERCICIOS.ex10",
+            "projectName": "javaEX2_e7c0cd0f"
+        },
+        {
+            "type": "java",
+            "name": "ex11",
+            "request": "launch",
+            "mainClass": "EXERCICIOS.ex11",
+            "projectName": "javaEX2_e7c0cd0f"
+        },
+        {
+            "type": "java",
+            "name": "ex12",
+            "request": "launch",
+            "mainClass": "EXERCICIOS.ex12",
+            "projectName": "javaEX2_e7c0cd0f"
+        },
+        {
+            "type": "java",
+            "name": "ex13",
+            "request": "launch",
+            "mainClass": "EXERCICIOS.ex13",
+            "projectName": "javaEX2_e7c0cd0f"
+        },
+        {
+            "type": "java",
+            "name": "ex14",
+            "request": "launch",
+            "mainClass": "EXERCICIOS.ex14",
+            "projectName": "javaEX2_e7c0cd0f"
+        },
+        {
+            "type": "java",
+            "name": "ex15",
+            "request": "launch",
+            "mainClass": "EXERCICIOS.ex15",
+            "projectName": "javaEX2_e7c0cd0f"
+        },
+        {
+            "type": "java",
+            "name": "ex16",
+            "request": "launch",
+            "mainClass": "EXERCICIOS.ex16",
+            "projectName": "javaEX2_e7c0cd0f"
+        },
+        {
+            "type": "java",
+            "name": "ex2",
+            "request": "launch",
+            "mainClass": "EXERCICIOS.ex2",
+            "projectName": "javaEX2_e7c0cd0f"
+        },
+        {
+            "type": "java",
+            "name": "ex3",
+            "request": "launch",
+            "mainClass": "EXERCICIOS.ex3",
+            "projectName": "javaEX2_e7c0cd0f"
+        },
+        {
+            "type": "java",
+            "name": "ex4",
+            "request": "launch",
+            "mainClass": "EXERCICIOS.ex4",
+            "projectName": "javaEX2_e7c0cd0f"
+        },
+        {
+            "type": "java",
+            "name": "ex5",
+            "request": "launch",
+            "mainClass": "EXERCICIOS.ex5",
+            "projectName": "javaEX2_e7c0cd0f"
+        },
+        {
+            "type": "java",
+            "name": "ex6",
+            "request": "launch",
+            "mainClass": "EXERCICIOS.ex6",
+            "projectName": "javaEX2_e7c0cd0f"
+        },
+        {
+            "type": "java",
+            "name": "ex7",
+            "request": "launch",
+            "mainClass": "EXERCICIOS.ex7",
+            "projectName": "javaEX2_e7c0cd0f"
+        },
+        {
+            "type": "java",
+            "name": "ex8",
+            "request": "launch",
+            "mainClass": "EXERCICIOS.ex8",
+            "projectName": "javaEX2_e7c0cd0f"
+        },
+        {
+            "type": "java",
+            "name": "ex9",
+            "request": "launch",
+            "mainClass": "EXERCICIOS.ex9",
+            "projectName": "javaEX2_e7c0cd0f"
+        }
+    ]
+}
